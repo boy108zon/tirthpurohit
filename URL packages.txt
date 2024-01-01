@@ -1,0 +1,13 @@
+local storage wrapper for both react-native and browser. Support size controlling, auto expiring, 
+remote data auto syncing and getting batch data in one query.
+
+https://openbase.com/js/react-native-storage
+
+
+
+https://www.javatpoint.com/react-native-passing-value-between-screen
+
+
+1. Settings this password will overwrite any previous password.
+2. New Password will be valid for both Email & Phone Login.
+3. The old & new password cannot be the same.

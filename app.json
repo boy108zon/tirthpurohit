@@ -1,0 +1,16 @@
+{
+  "name": "tirthapp",
+  "displayName": "tirthapp",
+  "expo": {
+    "name": "tirthapp",
+    "slug": "tirthapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "sdkVersion": "27.0.0", "platforms": [ "ios", "android" ],
+    "android": {
+      "package": "com.boy108zon.tirthapp"
+    }
+  }
+}
